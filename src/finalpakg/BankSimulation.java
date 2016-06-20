@@ -18,7 +18,7 @@ public class BankSimulation {
 	
 	int github = 007;
 	int githubb = 0057;
-	int githrub = 007;
+	int githrub = 0057;
 	int githrrubb = 0057;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
