@@ -16,7 +16,7 @@ public class BankSimulation {
 	 * @param args
 	 */
 	
-	int github = 007;
+	int github = 00337;
 	int githubb = 0057;
 	int githrub = 0057;
 	int githrrubb = 0057;
